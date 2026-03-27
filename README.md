@@ -1,9 +1,7 @@
-# GamingPlatformReportAsses
----------------------------------------------------------------------------------------------
----------------------------- QUESTION B -----------------------------------------------------
----------------------------------------------------------------------------------------------
------------------- HOW CASH OF 50000 SHOULD BE DISTRIBUTED AMONG TOP 50 PLAYERS ? -----------
+# GamingPlatformReportAssessment
 
+# QUESTION B
+HOW CASH OF 50000 SHOULD BE DISTRIBUTED AMONG TOP 50 PLAYERS ?
 
 
 /* BONUS should be Distributed based on all values , formula should not be bias.
@@ -16,9 +14,8 @@
 
 */
 
------------------------------------------------------------------------------------------------
------------------------------------------------------ QUESTION C ------------------------------
---------------------------IS LOYALTY FORMULA IN ASSESMENT IS FAIR OR NOT ? --------------------
+# QUESTION C 
+IS LOYALTY FORMULA IN ASSESMENT IS FAIR OR NOT ? 
 
 /*  
      ANS : I think formula is unfair beacuse its giving more priority for money/ deposit so any rich user can dominate formula.
@@ -48,6 +45,5 @@
 
 */
 
-------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------- THANKS ------------------------------------------------------------------------
-------
+
+
